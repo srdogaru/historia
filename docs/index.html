@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Dispaccio — Storia &amp; Geopolitica</title>
+<meta name="description" content="Rassegna quotidiana di storia e geopolitica, raccolta automaticamente da fonti selezionate." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <p class="eyebrow">Rassegna quotidiana · aggiornata ogni mattina</p>
+    <h1 class="title">Dispaccio</h1>
+    <p class="subtitle">Storia &amp; Geopolitica, raccolte da un piccolo elenco di fonti scelte</p>
+    <p class="last-updated" id="last-updated">Caricamento…</p>
+  </div>
+</header>
+
+<nav class="filters" aria-label="Filtri">
+  <div class="filters-inner">
+    <div class="filter-group" id="category-filters" role="group" aria-label="Filtra per categoria">
+      <button class="chip is-active" data-category="all">Tutto</button>
+      <button class="chip" data-category="Geopolitica">Geopolitica</button>
+      <button class="chip" data-category="Storia">Storia</button>
+    </div>
+    <div class="filter-group source-select-wrap">
+      <label for="source-select" class="visually-hidden">Filtra per fonte</label>
+      <select id="source-select" class="source-select">
+        <option value="all">Tutte le fonti</option>
+      </select>
+    </div>
+  </div>
+</nav>
+
+<main class="dispatch" id="dispatch">
+  <div class="loading-state" id="loading-state">
+    <p>Recupero i dispacci di oggi…</p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <p>Fonti: The Economist, Foreign Affairs, World Politics Review, Al Jazeera, ECFR — History Today, BBC History Extra, Smithsonian Magazine, The Conversation.</p>
+  <p class="footer-note">I riassunti sono generati automaticamente dai feed originali. Per l'articolo completo, apri la fonte.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

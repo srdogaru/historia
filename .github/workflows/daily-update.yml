@@ -1,0 +1,41 @@
+name: Aggiornamento quotidiano feed
+
+on:
+  schedule:
+    # Ogni giorno alle 06:00 UTC (le 07:00 o 08:00 in Italia, a seconda dell'ora legale)
+    - cron: "0 6 * * *"
+  workflow_dispatch: {} # permette di lanciarlo anche manualmente dal tab "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: .
+
+      - name: Fetch feeds and build data.json
+        run: node scripts/fetch-feeds.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          if git diff --cached --quiet; then
+            echo "Nessun cambiamento nei dati, niente da committare."
+          else
+            git commit -m "Aggiornamento automatico feed $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
