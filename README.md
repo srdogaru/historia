@@ -1,4 +1,4 @@
-# Dispaccio — Rassegna quotidiana di Storia & Geopolitica
+# Historia — Rassegna quotidiana di Storia & Geopolitica
 
 Sito statico che raccoglie automaticamente articoli da una lista di fonti selezionate
 (The Economist, Foreign Affairs, World Politics Review, Al Jazeera, ECFR, History Today,
