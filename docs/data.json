@@ -1,77 +1,197 @@
 {
-  "generatedAt": "2026-08-03T09:56:31.486Z",
+  "generatedAt": "2026-08-04T08:47:00.262Z",
   "articles": [
     {
-      "title": "Wales FA withdraws support for Infantino re-election after FIFA stake plan",
-      "link": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
-      "description": "Wales is the first federation to formally withdraw support for Gianni Infantino after botched World Cup investment plan.",
-      "date": "2026-08-03T09:23:05.000Z",
+      "title": "General Pinochet’s Return",
+      "link": "https://www.historytoday.com/archive/behind-times/general-pinochets-return",
+      "description": "General Pinochet’s Return James Hoare Tue, 08/04/2026 - 09:08 Redressing the crimes of Pinochet’s regime has been a hard-fought and often contested process. Chile’s current presidency has revealed how easily progress can be reversed.",
+      "date": "2026-08-04T08:08:48.000Z",
+      "source": "History Today",
+      "category": "Storia"
+    },
+    {
+      "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
+      "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+      "description": "The Brazilian fighter died in his sleep after a suspected heart attack, the UFC said.",
+      "date": "2026-08-04T07:19:29.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
-      "link": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
-      "description": "Climate change makes Europe&#039;s summers hotter, intensifying fires and droughts while threatening lives and economies.",
-      "date": "2026-08-03T09:13:59.000Z",
+      "title": "Daily quiz: 4 August",
+      "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+      "description": "Put your history knowledge to the test with our daily quiz challenge – updated every morning at 7am UK time",
+      "date": "2026-08-04T06:00:16.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+      "description": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a &#039;breakthrough&#039;.",
+      "date": "2026-08-04T06:00:10.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "‘He had a lot of profiles’: The rise of online drug-facilitated rape gangs",
-      "link": "https://www.aljazeera.com/news/2026/8/3/he-had-a-lot-of-profiles-the-rise-of-online-drug-facilitated-rape-gangs?traffic_source=rss",
-      "description": "Cases across many countries point to a worrying trend of men gathering on the internet to carry out sexual abuse crimes.",
-      "date": "2026-08-03T09:12:14.000Z",
+      "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+      "description": "Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
+      "date": "2026-08-04T05:03:44.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
-      "description": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
-      "date": "2026-08-03T09:05:04.000Z",
+      "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+      "description": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.",
+      "date": "2026-08-04T04:22:28.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Australia warns H5N1 likely to spread after first mass mortality episode",
-      "link": "https://www.aljazeera.com/news/2026/8/3/australia-warns-h5n1-likely-to-spread-after-first-mass-mortality-episode?traffic_source=rss",
-      "description": "Agriculture minister ​says testing confirmed H5N1 bird flu in a group of 49 dead and 35 sick terns.",
-      "date": "2026-08-03T09:04:57.000Z",
+      "title": "The New Forever Wars",
+      "link": "https://www.foreignaffairs.com/united-states/new-forever-wars",
+      "description": "How America gets stuck in its allies’ fights.",
+      "date": "2026-08-04T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "The War China Might Choose",
+      "link": "https://www.foreignaffairs.com/taiwan/war-china-might-choose",
+      "description": "A new Taiwan option.",
+      "date": "2026-08-04T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+      "description": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+      "date": "2026-08-04T03:58:09.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Who is Jordan Salinas, ‘hero’ bystander who confronted Idaho shooter?",
-      "link": "https://www.aljazeera.com/news/2026/8/3/who-is-jordan-salinas-hero-bystander-who-confronted-idaho-shooter?traffic_source=rss",
-      "description": "Suspected attacker, identified as 24-year-old Chad Williams, killed at least three people in the US on Saturday.",
-      "date": "2026-08-03T09:01:15.000Z",
+      "title": "Pochettino agrees to coach men’s US Soccer through 2030 World Cup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss",
+      "description": "Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.",
+      "date": "2026-08-04T03:32:48.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "‘US backs off from Iran before markets open on weekdays’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/us-backs-off-from-iran-before-markets-open-on?traffic_source=rss",
-      "description": "‘US backs off from Iran before markets open on weekdays’",
-      "date": "2026-08-03T08:55:13.000Z",
+      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+      "link": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
+      "description": "Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.",
+      "date": "2026-08-04T03:14:29.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Michael Thorbjornsen wins first PGA Tour title at Rocket Classic",
-      "link": "https://www.aljazeera.com/sports/2026/8/3/michael-thorbjornsen-wins-first-pga-tour-title-at-rocket-classic?traffic_source=rss",
-      "description": "Thorbjornsen, who joined the Tour as a rookie in 2025, is widely considered one of the rising stars of US golf.",
-      "date": "2026-08-03T08:25:22.000Z",
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+      "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "description": "Benchmark S&amp;P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+      "date": "2026-08-04T02:56:26.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Spanish farmer finds donkeys alive after wildfires destroy her property",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/spanish-farmer-finds-donkeys-alive-after-wildfires-destroy-her-property?traffic_source=rss",
-      "description": "Spanish farmer finds donkeys alive after wildfires destroy her property",
-      "date": "2026-08-03T08:23:55.000Z",
+      "title": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
+      "link": "https://www.aljazeera.com/news/2026/8/4/ibrahim-traore-why-burkina-fasos-popular-leader-faces-a-reality-test?traffic_source=rss",
+      "description": "Traore’s sovereignty message has won support across Africa, but his record at home faces scrutiny.",
+      "date": "2026-08-04T02:15:32.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
+    },
+    {
+      "title": "Does the US blockade on Cuba make America safer?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+      "description": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
+      "date": "2026-08-04T01:58:17.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+      "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+      "description": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+      "date": "2026-08-04T01:43:51.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Trump administration sued by 25 states over new tariffs on trading partners",
+      "link": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
+      "description": "The states claim the new levies are a pretext to re-impose tariffs that were ruled illegal by the US Supreme Court.",
+      "date": "2026-08-04T00:29:48.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+      "description": "US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.",
+      "date": "2026-08-04T00:00:00.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
+      "description": "A Japanese company has admitted that two workers, who died in a shopping mall explosion following powerful earthquake.",
+      "date": "2026-08-03T23:52:02.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Death toll from Venezuela earthquakes passes 6,000",
+      "link": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
+      "description": "National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.",
+      "date": "2026-08-03T23:20:37.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "The most important document in Tudor history? How a forgotten text triggered a royal crisis",
+      "link": "https://www.historyextra.com/period/tudor/devise-for-the-succession-lady-jane-grey/",
+      "description": "When the dying teenage king Edward VI rewrote the royal succession in his own hand, he tried to overturn his father's wishes, disinherit both Mary and Elizabeth, and place his Protestant cousin Lady Jane Grey on the throne. The document was illegal – but it triggered one of the…",
+      "date": "2026-08-03T16:54:54.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "The War Room newsletter: Inside a 38-tonne armoured beast",
+      "link": "https://www.economist.com/international/2026/08/03/the-war-room-newsletter-inside-a-38-tonne-armoured-beast",
+      "description": "Jonathan Rosenthal, our international editor, takes an infantry fighting vehicle for a spin",
+      "date": "2026-08-03T15:58:16.000Z",
+      "source": "The Economist",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Tokugawa Ieyasu: Know when to prepare – and when to act",
+      "link": "https://www.historyextra.com/membership/tokugawa-ieyasu-know-when-to-prepare-and-when-to-act/",
+      "description": "In the third episode of History's Greatest Leaders, entrepreneur and author Mike Soutar and historian Christopher Harding discuss the leadership style of 16th-century Japanese unifier Tokugawa Ieyasu",
+      "date": "2026-08-03T15:26:33.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "Does history really repeat itself? Why we should be careful in drawing parallels with the past",
+      "link": "https://www.historyextra.com/membership/does-history-really-repeat-itself-why-we-should-be-careful-in-drawing-parallels-with-the-past/",
+      "description": "It’s human nature to believe that history repeats itself. But attempts to draw parallels with the past can be misguided – even dangerous",
+      "date": "2026-08-03T15:00:16.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "The Fifth Crusade: triumph, disaster and the battle for Egypt",
+      "link": "https://www.historyextra.com/membership/the-fifth-crusade-triumph-disaster-and-the-battle-for-egypt-podcast/",
+      "description": "Thomas Smith explains how the crusaders came astonishingly close to conquering Egypt during the dramatic Fifth Crusade",
+      "date": "2026-08-03T12:52:08.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
     },
     {
       "title": "‘The Cheese and the Worms’ by Carlo Ginzburg review",
@@ -80,38 +200,6 @@
       "date": "2026-08-03T07:58:13.000Z",
       "source": "History Today",
       "category": "Storia"
-    },
-    {
-      "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to injury",
-      "link": "https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss",
-      "description": "Bumrah, the world&#039;s top-ranked Test bowler, will miss the tour after sustaining an on-field injury in the UK last month.",
-      "date": "2026-08-03T07:50:06.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "‘Tell us’: Gaza family trapped between hope and pain over missing brothers",
-      "link": "https://www.aljazeera.com/features/2026/8/3/tell-us-gaza-family-trapped-between-hope-and-pain-over-missing-brothers?traffic_source=rss",
-      "description": "The disappearance of two boys last year has turned the Abdel Aal family’s life into an endless search for answers.",
-      "date": "2026-08-03T06:09:00.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Daily quiz: 3 August",
-      "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-      "description": "Put your history knowledge to the test with our daily quiz challenge – updated every morning at 7am UK time",
-      "date": "2026-08-03T06:00:14.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "Grid failure plunges Cuba into nationwide blackout",
-      "link": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
-      "description": "Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.",
-      "date": "2026-08-03T04:35:39.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
     },
     {
       "title": "China’s Quiet Quest to Dominate Latin America",
@@ -127,30 +215,6 @@
       "description": "Overcoming the enrichment dilemma in the Saudi deal.",
       "date": "2026-08-03T04:00:00.000Z",
       "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-      "link": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
-      "description": "A total of 1,000sq km (386sq miles) has burned across Washington state, and some of the fires have not been contained.",
-      "date": "2026-08-03T03:26:08.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-      "description": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
-      "date": "2026-08-03T03:17:33.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
-      "description": "Brazil&#039;s President Luiz Inácio Lula da Silva has officially launched his reelection campaign.",
-      "date": "2026-08-03T02:54:25.000Z",
-      "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
@@ -218,30 +282,6 @@
       "category": "Geopolitica"
     },
     {
-      "title": "Quiz of the week: what was the primary duty of the 'Groom of the Stool' in the Tudor court?",
-      "link": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
-      "description": "How much have you been paying attention to this week's content on HistoryExtra? Test your knowledge with our quiz…",
-      "date": "2026-07-31T08:02:10.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "History crossword: 24 July",
-      "link": "https://www.historyextra.com/membership/history-crossword-24-july/",
-      "description": "",
-      "date": "2026-07-31T06:38:56.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "Can you solve our history crossword of the week?",
-      "link": "https://www.historyextra.com/period/general-history/crossword/",
-      "description": "",
-      "date": "2026-07-31T06:38:19.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
       "title": "Defining modernity in South-East Asia",
       "link": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/",
       "description": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
@@ -279,14 +319,6 @@
       "description": "Jane Stanford's legacy is the focus of a new showcase at the California university. The display features artifacts that have never previously been exhibited",
       "date": "2026-07-30T11:45:00.000Z",
       "source": "Smithsonian Magazine (Storia)",
-      "category": "Storia"
-    },
-    {
-      "title": "Meet the easy family tree builder that lets your ancestors come to you – how to get started on MyHeritage today",
-      "link": "https://www.historyextra.com/advertisement-features/myheritage-complete-plan/",
-      "description": "Begin your journey into your family history today using just your parents' or grandparents' names",
-      "date": "2026-07-30T08:42:00.000Z",
-      "source": "BBC History Extra",
       "category": "Storia"
     },
     {
@@ -482,14 +514,6 @@
       "category": "Geopolitica"
     },
     {
-      "title": "America Still Has the Upper Hand Over China",
-      "link": "https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china",
-      "description": "Washington can win if it works with allies.",
-      "date": "2026-07-24T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
       "title": "The magnificent ten: A coalition of the willing to drive the EU’s next enlargement",
       "link": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/",
       "description": "A Team Enlargement coalition of EU member states can drive the changes needed to bring Ukraine and others into the bloc.",
@@ -530,14 +554,6 @@
       "category": "Storia"
     },
     {
-      "title": "China’s Moment of Weakness",
-      "link": "https://www.foreignaffairs.com/china/chinas-moment-weakness",
-      "description": "Economic decay and America’s strategic opening.",
-      "date": "2026-07-23T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
       "title": "How better climate diplomacy can save Europe’s green ambitions",
       "link": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
       "description": "The EU needs to align climate diplomacy with industrial strategy to accelerate Europe’s transition to a competitive low-carbon economy",
@@ -558,14 +574,6 @@
       "link": "https://www.historytoday.com/archive/review/empress-matilda-elisabeth-van-houts-review",
       "description": "‘Empress Matilda’ by Elisabeth van Houts review James Hoare Wed, 07/22/2026 - 09:13 Empress Matilda: Queen of the Romans, Ruler of the English by Elisabeth van Houts is a sympathetic biography of the woman who would be king.",
       "date": "2026-07-22T08:13:34.000Z",
-      "source": "History Today",
-      "category": "Storia"
-    },
-    {
-      "title": "Caesar and Cicero’s War of Words",
-      "link": "https://www.historytoday.com/archive/feature/caesar-and-ciceros-war-words",
-      "description": "Caesar and Cicero’s War of Words James Hoare Wed, 07/22/2026 - 09:12 As ancient Rome was divided by civil war Cicero found himself torn. Caesar was his old adversary, but he was also powerful, and it was politically and personally expedient to support him.",
-      "date": "2026-07-22T08:12:03.000Z",
       "source": "History Today",
       "category": "Storia"
     },
