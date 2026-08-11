@@ -1,6 +1,182 @@
 {
-  "generatedAt": "2026-08-10T07:51:07.547Z",
+  "generatedAt": "2026-08-11T07:16:05.113Z",
   "articles": [
+    {
+      "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+      "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+      "description": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
+      "date": "2026-08-11T06:05:07.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss",
+      "description": "Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup.",
+      "date": "2026-08-11T05:12:05.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Family watches helplessly as Colombia quake destroys home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss",
+      "description": "A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home.",
+      "date": "2026-08-11T05:02:58.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Trump’s media company reports $238m loss",
+      "link": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss",
+      "description": "Trump Media &amp; Technology Group earns less than $2m in Q2.",
+      "date": "2026-08-11T04:52:07.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
+      "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+      "description": "National oil company warns it may halt operations at the country&#039;s largest operating refinery if drone attacks continue.",
+      "date": "2026-08-11T04:37:27.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "China’s Long March 7A rocket explodes after lift-off",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
+      "description": "China’s Long March 7A rocket exploded shortly after lifting off from the Wenchang launch site in Hainan.",
+      "date": "2026-08-11T04:34:50.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Fire rages after drone strikes Libya’s largest oil refinery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
+      "description": "A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.",
+      "date": "2026-08-11T04:09:10.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "The Path to Development in a Post-Aid World",
+      "link": "https://www.foreignaffairs.com/united-states/path-development-post-aid-world",
+      "description": "How fragile states can fortify themselves.",
+      "date": "2026-08-11T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "China’s Hunger Games",
+      "link": "https://www.foreignaffairs.com/china/chinas-hunger-games",
+      "description": "How Beijing turned its food insecurity into geopolitical leverage.",
+      "date": "2026-08-11T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Where did all the money go if the US is running out of weapons?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
+      "description": "The war on Iran is exposing shortages in US weapons stockpiles, raising questions about years of defence spending.",
+      "date": "2026-08-11T03:32:57.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
+      "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss",
+      "description": "The South American nation is only the second country to recognise Israel&#039;s claims over the illegally annexed territory.",
+      "date": "2026-08-11T02:44:39.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+      "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
+      "description": "US president seeks payment for &#039;50 years&#039; of alleged damages after Iran conditions opening of Hormuz on war reparations.",
+      "date": "2026-08-11T02:32:47.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss",
+      "description": "US President Donald Trump signed an executive order calling for fewer childhood vaccinations and splitting up MMR.",
+      "date": "2026-08-11T02:08:55.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Soldiers take cover as Colombia quake flattens military barracks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+      "description": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
+      "date": "2026-08-11T01:06:36.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
+      "description": "Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.",
+      "date": "2026-08-11T00:55:09.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Seventy years after South Africa’s women’s march, the struggle is not over",
+      "link": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
+      "description": "Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.",
+      "date": "2026-08-11T00:26:02.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+      "description": "Can Netanyahu risk continuing to defy Trump?",
+      "date": "2026-08-11T00:00:19.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "The War Room newsletter: Do generals make good politicians?",
+      "link": "https://www.economist.com/international/2026/08/10/the-war-room-newsletter-do-generals-make-good-politicians",
+      "description": "Anshel Pfeffer, our Israel correspondent, examines why so few of the country’s former generals succeed in politics",
+      "date": "2026-08-10T16:56:28.000Z",
+      "source": "The Economist",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "From Jack the Ripper to the Princes in the Tower: these are history's 8 biggest mysteries",
+      "link": "https://www.historyextra.com/membership/from-jack-the-ripper-to-the-princes-in-the-tower-these-are-historys-8-biggest-mysteries/",
+      "description": "Our team of historians, broadcasters and authors ponder the most puzzling conundrums from the past",
+      "date": "2026-08-10T15:30:20.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "This Box of 300 Love Letters Showed Up Out of the Blue. Who Was the Whimsical World War II Soldier Who Wrote Them?",
+      "link": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
+      "description": "Nobody knows who dropped Speedy Weber's correspondence at a USO office in 2022. Researchers have finally tracked down two living relatives who remember him",
+      "date": "2026-08-10T15:02:12.000Z",
+      "source": "Smithsonian Magazine (Storia)",
+      "category": "Storia"
+    },
+    {
+      "title": "How Christianity conquered the Roman empire",
+      "link": "https://www.historyextra.com/membership/how-christianity-conquered-roman-empire-podcast/",
+      "description": "Tim Whitmarsh discusses the rise of Christianity in the fist century AD – and why it flourished when other religious cults did not",
+      "date": "2026-08-10T14:50:50.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "Catherine the Great: How to survive on the Russian throne",
+      "link": "https://www.historyextra.com/membership/catherine-great-historys-greatest-leaders/",
+      "description": "In the fourth episode of History's Greatest Leaders, historian, author and broadcaster Simon Sebag Montefiore talks to Mike Soutar about the remarkable leadership of Catherine the Great",
+      "date": "2026-08-10T14:39:14.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
     {
       "title": "‘Fakers’ by Rory Cormac review",
       "link": "https://www.historytoday.com/archive/review/fakers-rory-cormac-review",
@@ -8,22 +184,6 @@
       "date": "2026-08-10T07:17:30.000Z",
       "source": "History Today",
       "category": "Storia"
-    },
-    {
-      "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
-      "link": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
-      "description": "On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality.",
-      "date": "2026-08-10T07:10:32.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "What’s driving unrest in Pakistan-administered Kashmir?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-      "description": "What&#039;s driving unrest in Pakistan-administered Kashmir?",
-      "date": "2026-08-10T06:26:04.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
     },
     {
       "title": "Daily quiz: 10 August",
@@ -34,115 +194,11 @@
       "category": "Storia"
     },
     {
-      "title": "Wildfires bear down on homes in Canada’s Okanagan region",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
-      "description": "A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.",
-      "date": "2026-08-10T04:49:42.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Trump names Will Scharf as White House counsel ahead of midterms",
-      "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
-      "description": "Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.",
-      "date": "2026-08-10T04:00:21.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
       "title": "Why China Worries About North Korea",
       "link": "https://www.foreignaffairs.com/china/why-china-worries-about-north-korea",
       "description": "Beijing’s plans to manage an assertive Pyongyang.",
       "date": "2026-08-10T04:00:00.000Z",
       "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Brazilian player falls into tunnel celebrating goal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/brazilian-player-falls-into-tunnel-celebrating-goal?traffic_source=rss",
-      "description": "Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.",
-      "date": "2026-08-10T03:51:00.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Trump signals shift to economic pressure on Iran over new military strikes",
-      "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-      "description": "US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.",
-      "date": "2026-08-10T03:48:19.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-      "description": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
-      "date": "2026-08-10T03:24:38.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Clashes in Iraq’s Kut city during protests over power shortages",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss",
-      "description": "Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.",
-      "date": "2026-08-10T03:03:59.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Israel confirms death of Palestinian detainee, nearly two years late",
-      "link": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
-      "description": "The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.",
-      "date": "2026-08-10T02:59:45.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
-      "link": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
-      "description": "Malaysia&#039;s government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.",
-      "date": "2026-08-10T02:48:51.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss",
-      "description": "Suspected Irish crime boss Daniel Kinahan has appeared before a Dublin court after being extradited from Dubai.",
-      "date": "2026-08-10T01:43:37.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
-      "description": "Iran-backed Houthis have resumed attacks on Yemen’s al-Makha port in the Red Sea.",
-      "date": "2026-08-10T01:34:26.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
-      "link": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
-      "description": "Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.",
-      "date": "2026-08-10T00:51:19.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "New Houthi missile and drone attacks kill seven in Yemen’s al-Makha",
-      "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
-      "description": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha and its commercial port.",
-      "date": "2026-08-10T00:19:43.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
-      "description": "Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
-      "date": "2026-08-10T00:00:00.000Z",
-      "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
@@ -163,9 +219,9 @@
     },
     {
       "title": "Why did witches confess?",
-      "link": "https://www.historyextra.com/membership/why-did-witches-confess-podcast/",
+      "link": "https://www.historyextra.com/membership/why-did-witches-confess/",
       "description": "Marion Gibson reveals the real stories of people accused of witchcraft in the 17th century",
-      "date": "2026-08-07T10:52:37.000Z",
+      "date": "2026-08-07T13:54:50.000Z",
       "source": "BBC History Extra",
       "category": "Storia"
     },
@@ -194,14 +250,6 @@
       "category": "Storia"
     },
     {
-      "title": "Latin America’s new imaginaries",
-      "link": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
-      "description": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
-      "date": "2026-08-07T05:00:00.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
       "title": "China’s Legal Weapon",
       "link": "https://www.foreignaffairs.com/china/chinas-legal-weapon",
       "description": "Beijing’s quest to challenge America’s legal hegemony.",
@@ -226,30 +274,6 @@
       "category": "Storia"
     },
     {
-      "title": "These Iron Age bodies were all buried in the same bizarre way. What does it mean?",
-      "link": "https://www.historyextra.com/membership/iron-age-burials-gaul-ritual-cultural-belief/",
-      "description": "The excavation of a 2,000 year old burial site revealed eighteen skeletons buried upright, and archaeologists have a few theories about why",
-      "date": "2026-08-06T14:53:15.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "Trust the numbers: Germans are open to a more hawkish China policy",
-      "link": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
-      "description": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
-      "date": "2026-08-06T14:41:31.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Hamas has agreed to disarm. Israel should now agree to peace",
-      "link": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
-      "description": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
-      "date": "2026-08-06T14:34:55.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
       "title": "A battle for supremacy has laid Sudan and its capital to waste",
       "link": "https://www.economist.com/interactive/international/2026/08/06/a-battle-for-supremacy-has-laid-sudan-and-its-capital-to-waste",
       "description": "The country’s future depends on events beyond its borders, as well as within them",
@@ -266,14 +290,6 @@
       "category": "Storia"
     },
     {
-      "title": "Why We Should Fight",
-      "link": "https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake",
-      "description": "And where Trump went wrong.",
-      "date": "2026-08-06T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
       "title": "America Must Let Go of the Middle East",
       "link": "https://www.foreignaffairs.com/united-states/america-must-let-go-middle-east",
       "description": "The Failed Iran war should spur a long-overdue withdrawal.",
@@ -282,20 +298,12 @@
       "category": "Geopolitica"
     },
     {
-      "title": "A-Z of medieval life: M-P",
-      "link": "https://www.historyextra.com/membership/a-z-of-medieval-life-m-p/",
-      "description": "Find out what letters M-P stand for in historian Dr Ian Mortimer's A–Z journey through medieval England…",
-      "date": "2026-08-05T15:24:12.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "Inside Pompeii with Tom Hiddleston: the hidden detail that most people miss",
-      "link": "https://www.historyextra.com/membership/inside-pompeii-tom-hiddleston-video/",
-      "description": "As a new docudrama follows three real Romans from the historical record through the Pompeii disaster, we sat down with Hollywood actor Tom Hiddleston to find out how ancient history reaches through time",
-      "date": "2026-08-05T15:16:53.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
+      "title": "Why We Should Fight",
+      "link": "https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake",
+      "description": "And where Trump went wrong.",
+      "date": "2026-08-06T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
     },
     {
       "title": "Why Has History Forgotten World War II's Largest Prison Break, Which Claimed the Lives of More Than 200 Japanese POWs?",
@@ -343,14 +351,6 @@
       "description": "In a gangsterish age, the UN needs an ultra-pragmatist as secretary-general",
       "date": "2026-08-04T19:28:16.000Z",
       "source": "The Economist",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "If Marine Le Pen wins: A European guide to a far-right France",
-      "link": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
-      "description": "A Le Pen-led France would mean major changes to European politics. Here's how political leaders can begin to prepare.",
-      "date": "2026-08-04T11:02:13.000Z",
-      "source": "European Council on Foreign Relations",
       "category": "Geopolitica"
     },
     {
@@ -418,41 +418,9 @@
       "category": "Geopolitica"
     },
     {
-      "title": "Alone at the border: Ceuta and Europe&#8217;s solidarity failure",
-      "link": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
-      "description": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
-      "date": "2026-07-31T17:07:34.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "How splits on the right may threaten Poland&#8217;s pro-European camp",
-      "link": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/",
-      "description": "More than 40 MPs have walked out of Law and Justice, Poland’s largest opposition party, and will court centre-right voters who put Donald Tusk in power in 2023. To win them back, Tusk should make the European argument he has spent years avoiding",
-      "date": "2026-07-31T09:32:21.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Defining modernity in South-East Asia",
-      "link": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/",
-      "description": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
-      "date": "2026-07-31T05:00:00.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
       "title": "The Ambiguity Spiral in Iran",
       "link": "https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran",
       "description": "How Trump’s lack of clarity leads to escalation.",
-      "date": "2026-07-31T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Why a Weaker Russia Keeps Fighting",
-      "link": "https://www.foreignaffairs.com/ukraine/why-weaker-russia-keeps-fighting",
-      "description": "Putin sees little need to negotiate.",
       "date": "2026-07-31T04:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
@@ -482,30 +450,6 @@
       "category": "Storia"
     },
     {
-      "title": "The New Old Middle East",
-      "link": "https://www.foreignaffairs.com/middle-east/new-old-middle-east-gause",
-      "description": "Wars of sound and fury.",
-      "date": "2026-07-30T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
-      "link": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
-      "description": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
-      "date": "2026-07-29T14:48:16.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
-      "link": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
-      "description": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
-      "date": "2026-07-29T10:42:02.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
       "title": "‘Charismatic Nations’ by Joep Leerssen review",
       "link": "https://www.historytoday.com/archive/review/charismatic-nations-joep-leerssen-review",
       "description": "‘Charismatic Nations’ by Joep Leerssen review James Hoare Wed, 07/29/2026 - 09:05 Charismatic Nations: A Cultural History of Nationalism in Europe from 1800 to the Present by Joep Leerssen looks to art and not politics for the birth of the nation.",
@@ -530,14 +474,6 @@
       "category": "Storia"
     },
     {
-      "title": "The Saudi dilemma: How Yemen could shape the next phase of the Iran war",
-      "link": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/",
-      "description": "As the Houthis attack Saudi ships and infrastructure, Riyadh faces an increasingly difficult choice: absorb the blows to stay out of the Iran war or retaliate and risk a dangerous escalation.",
-      "date": "2026-07-28T14:57:48.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
       "title": "This 1863 Massacre Was the Deadliest Slaughter of Native Americans in U.S. History. Now, the Shoshone Are Restoring the Site of the Attack",
       "link": "https://www.smithsonianmag.com/history/this-1863-massacre-was-the-deadliest-slaughter-of-native-americans-in-us-history-now-the-shoshone-are-restoring-the-site-of-the-attack-180989200/",
       "description": "Amid mounting tensions between white settlers and the Shoshone, Union soldiers killed an estimated 250 to 500 Shoshone. Today, the Indigenous nation is working to bring \"nature back into balance\"",
@@ -554,14 +490,6 @@
       "category": "Storia"
     },
     {
-      "title": "Shoring up the Red Sea: Why the next crisis may begin in the Horn of Africa",
-      "link": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/",
-      "description": "The Red Sea is becoming more dangerous, and not only because of the Houthis. Conflicts in the Horn of Africa are converging and drawing in external powers, creating new threats to a maritime corridor vital to global trade.",
-      "date": "2026-07-28T07:00:23.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
       "title": "This Ship Sank in the Baltic Sea With Presents Bound for a Romanov Czar. Its Cargo Included Champagne, Luxury Mineral Water and Rare Meteorites",
       "link": "https://www.smithsonianmag.com/history/this-ship-sank-in-the-baltic-sea-with-presents-bound-for-a-romanov-czar-its-cargo-included-champagne-luxury-mineral-water-and-rare-meteorites-180989198/",
       "description": "New research suggests that a shipwreck discovered off the coast of Sweden in 2024 may have been transporting gifts from the German Duchy of Nassau to Alexander II of Russia in the immediate aftermath of the Crimean War",
@@ -576,38 +504,6 @@
       "date": "2026-07-27T08:17:10.000Z",
       "source": "History Today",
       "category": "Storia"
-    },
-    {
-      "title": "Serbia: Inside the leaderless movement",
-      "link": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
-      "description": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
-      "date": "2026-07-24T12:35:30.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "The China-native generation",
-      "link": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
-      "description": "Mark Leonard welcomes Loubna El Amine and Cobus van Staden to explore how younger generations in Africa and the Middle East are shaping perceptions of China, the West and the future",
-      "date": "2026-07-24T05:00:00.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "The magnificent ten: A coalition of the willing to drive the EU’s next enlargement",
-      "link": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/",
-      "description": "A Team Enlargement coalition of EU member states can drive the changes needed to bring Ukraine and others into the bloc.",
-      "date": "2026-07-23T14:16:18.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "One foot out: Understanding Bulgaria’s geopolitical shift under Radev",
-      "link": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/",
-      "description": "Rumen Radev is steering Bulgaria towards a more transactional foreign policy. The EU needs to engage with Sofia and push back on such hedging to secure future European cohesion",
-      "date": "2026-07-23T13:51:12.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
     },
     {
       "title": "The geopolitics of air-conditioning",
@@ -706,9 +602,9 @@
     {
       "name": "European Council on Foreign Relations",
       "category": "Geopolitica",
-      "ok": true,
-      "error": null,
-      "count": 15
+      "ok": false,
+      "error": "HTTP 415",
+      "count": 0
     },
     {
       "name": "History Today",
