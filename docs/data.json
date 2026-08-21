@@ -1,45 +1,205 @@
 {
-  "generatedAt": "2026-08-20T06:54:25.908Z",
+  "generatedAt": "2026-08-21T06:55:20.001Z",
   "articles": [
     {
-      "title": "Daily quiz: 20 August",
+      "title": "Daily quiz: 21 August",
       "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
       "description": "Put your history knowledge to the test with our daily quiz challenge – updated every morning at 7am UK time",
-      "date": "2026-08-20T06:00:17.000Z",
+      "date": "2026-08-21T06:00:10.000Z",
       "source": "BBC History Extra",
       "category": "Storia"
     },
     {
-      "title": "Australian anger as Israel drops World Central Kitchen deaths case",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-      "description": "Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.",
-      "date": "2026-08-20T05:43:01.000Z",
+      "title": "Germany’s second China shock",
+      "link": "https://ecfr.eu/podcasts/episode/germanys-second-china-shock/",
+      "description": "Mark Leonard welcomes Janka Oertel and Andrew Small to discuss how China’s industrial rise is shaking Germany—and Europe’s—economic foundations",
+      "date": "2026-08-21T05:00:00.000Z",
+      "source": "European Council on Foreign Relations",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Dozens of migrants land on Spanish coast surprising beachgoers",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss",
+      "description": "Footage circulating on social media shows dozens of migrants arriving by boat on Spain’s southeastern coast.",
+      "date": "2026-08-21T04:47:56.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
-      "description": "In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
-      "date": "2026-08-20T05:06:23.000Z",
+      "title": "Why Criminals Love the Chinese Economy",
+      "link": "https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy",
+      "description": "And why Beijing can’t—or won’t—crack down.",
+      "date": "2026-08-21T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+      "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+      "description": "Activist group says the &#039;twisted&#039; Hong Kong judicial system had long ago decided that the pair were guilty.",
+      "date": "2026-08-21T03:50:15.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-      "description": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
-      "date": "2026-08-20T04:59:22.000Z",
+      "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
+      "description": "Pakistan’s former Prime Minister Imran Khan was sent back to prison after being transferred for a medical evaluation.",
+      "date": "2026-08-21T03:08:09.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-      "description": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
-      "date": "2026-08-20T04:31:10.000Z",
+      "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+      "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+      "description": "Three projects mark a new test for Egypt after it failed to prevent construction of the Grand Ethiopian Renaissance Dam.",
+      "date": "2026-08-21T02:11:33.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
+    },
+    {
+      "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
+      "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
+      "description": "The government has announced investments of about 2.3 billion reais ($444.2m) to bolster its AI ecosystem.",
+      "date": "2026-08-21T01:38:37.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
+      "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
+      "description": "The El Nino weather phenomenon is expected to increase the likelihood of drought and excess heat across the region.",
+      "date": "2026-08-21T01:12:02.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Antigovernment protesters take to Tunisia’s streets for second month",
+      "link": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
+      "description": "Tunisia has seen an uptick in protests as economic conditions in the country have deteriorated.",
+      "date": "2026-08-21T01:06:30.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Taliban release two detained UN staff members in Afghanistan",
+      "link": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+      "description": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+      "date": "2026-08-21T00:44:46.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
+      "link": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+      "description": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
+      "date": "2026-08-21T00:12:37.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "description": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+      "date": "2026-08-21T00:00:00.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
+      "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
+      "description": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
+      "date": "2026-08-20T23:19:56.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "US charges woman for allegedly plotting attack on New York State Capitol",
+      "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
+      "description": "The suspect, Jessica Bowie, 35, was arrested on charges of providing material support for &#039;terrorism&#039;.",
+      "date": "2026-08-20T23:01:15.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "The cost of rebuilding family homes in war-ravaged Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
+      "description": "What does rebuilding look like for families after war? Al Jazeera’s Hannah Raslan reports from Syria.",
+      "date": "2026-08-20T22:51:51.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
+      "link": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
+      "description": "New York mayor challenges $10,000 bonus law, citing conflict with collective bargaining rules.",
+      "date": "2026-08-20T22:45:40.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Pakistan’s ex-PM Imran Khan back in jail after brief hospital visit",
+      "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "description": "Khan, who was voted out of the office in April 2022, has been in prison for more than three years.",
+      "date": "2026-08-20T21:18:10.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Royal rivalry: 10 monarchs whose fate was determined by their siblings",
+      "link": "https://www.historyextra.com/membership/royal-sibling-rivalries/",
+      "description": "Through history, the role of the second or third royal sibling has not always been easy. Here, historian Sarah Gristwood explores 10 of the most famous – and dysfunctional – royal sibling relationships...",
+      "date": "2026-08-20T12:01:54.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "When an American Airplane Crashed Into a School in 1944, an English Village Lost Almost All of Its Youngest Children. Why Has WWII's Worst Civilian Aviation Accident Been Forgotten?",
+      "link": "https://www.smithsonianmag.com/history/when-american-airplane-crashed-into-school-1944-english-village-lost-almost-all-of-its-youngest-children-why-has-wwii-worst-civilian-aviation-accident-been-forgotten-180989341/",
+      "description": "On August 23, 1944, a test flight over the village of Freckleton, located in northwest England, ended in disaster, claiming the lives of 61 people, including 38 students between the ages of 4 and 6",
+      "date": "2026-08-20T11:45:00.000Z",
+      "source": "Smithsonian Magazine (Storia)",
+      "category": "Storia"
+    },
+    {
+      "title": "Alexander the Great died aged just 32 – but where had he been planning to conquer next?",
+      "link": "https://www.historyextra.com/period/ancient-history/how-did-alexander-the-great-die-where-was-he-planning-to-conquer-next/",
+      "description": "When Alexander the Great died in Babylon in 323 BC, he was preparing ships, armies and supply networks for a new phase of expansion.",
+      "date": "2026-08-20T09:31:53.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "In the bear’s paw: How Europeans can loosen Russia’s grip on Belarus",
+      "link": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/",
+      "description": "Russia’s growing military intervention in Belarus poses a frontline security challenge for Europe. The EU needs to develop a more pragmatic strategy based on protecting its eastern border and shaping Minsk’s autonomy away from Moscow.",
+      "date": "2026-08-20T08:41:35.000Z",
+      "source": "European Council on Foreign Relations",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Can you solve our history crossword of the week?",
+      "link": "https://www.historyextra.com/period/general-history/crossword/",
+      "description": "",
+      "date": "2026-08-20T08:00:16.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "What is an Information Age?",
+      "link": "https://www.historytoday.com/archive/head-head/what-information-age",
+      "description": "What is an Information Age? James Hoare Thu, 08/20/2026 - 08:37 From the printing press to the internet, the spread of information has changed the world. How do we recognise an age defined by it?",
+      "date": "2026-08-20T07:37:34.000Z",
+      "source": "History Today",
+      "category": "Storia"
+    },
+    {
+      "title": "The Bengal Famine in Indian Letters",
+      "link": "https://www.historytoday.com/archive/feature/bengal-famine-indian-letters",
+      "description": "The Bengal Famine in Indian Letters James Hoare Thu, 08/20/2026 - 08:16 In 1943 letters reporting starvation and death in Bengal began to reach Indian soldiers serving the British overseas. Despite colonial censorship, their testimonies revealed the devastating reality of famine.",
+      "date": "2026-08-20T07:16:55.000Z",
+      "source": "History Today",
+      "category": "Storia"
     },
     {
       "title": "How AI Could Hollow Out the U.S. Military",
@@ -47,94 +207,6 @@
       "description": "The best soldiers know how to think for themselves.",
       "date": "2026-08-20T04:00:00.000Z",
       "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
-      "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-      "description": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
-      "date": "2026-08-20T02:50:17.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
-      "description": "Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.",
-      "date": "2026-08-20T02:16:17.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-      "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-      "description": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
-      "date": "2026-08-20T01:56:41.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Bodycam captures police team falling when deck collapses in Missouri",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
-      "description": "Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.",
-      "date": "2026-08-20T01:37:08.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Publisher of US military newspaper resigns over differences with government",
-      "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
-      "description": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.",
-      "date": "2026-08-20T00:34:13.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
-      "link": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
-      "description": "Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.",
-      "date": "2026-08-20T00:26:59.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
-      "description": "English footballer Harry Kane won the title of ‘Europe’s best goalscorer’, awarded the Golden Shoe for the second time.",
-      "date": "2026-08-20T00:12:59.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
-      "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
-      "description": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
-      "date": "2026-08-20T00:06:05.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-      "description": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
-      "date": "2026-08-20T00:00:00.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "US national debt passes record $40 trillion",
-      "link": "https://www.aljazeera.com/economy/2026/8/19/us-national-debt-passes-record-40-trillion?traffic_source=rss",
-      "description": "The amount has doubled in the last decade, from Trump&#039;s first term through the Biden administration.",
-      "date": "2026-08-19T23:59:16.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
-      "description": "The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.",
-      "date": "2026-08-19T23:56:47.000Z",
-      "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
@@ -203,35 +275,19 @@
     },
     {
       "title": "A China Strategy That Lasts",
-      "link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts",
+      "link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
       "description": "Congress must lead to compete with Beijing.",
       "date": "2026-08-19T04:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
     },
     {
-      "title": "What happens when the West runs out of interceptor missiles",
-      "link": "https://www.economist.com/international/2026/08/18/what-happens-when-the-west-runs-out-of-interceptor-missiles",
+      "title": "What happens when interceptor missiles run out",
+      "link": "https://www.economist.com/international/2026/08/18/what-happens-when-interceptor-missiles-run-out",
       "description": "The growing shortage is causing panic in Ukraine and elsewhere",
       "date": "2026-08-18T19:20:34.000Z",
       "source": "The Economist",
       "category": "Geopolitica"
-    },
-    {
-      "title": "Daily quiz: 17 August",
-      "link": "https://www.historyextra.com/membership/daily-quiz-17-august/",
-      "description": "What was the profession of Sofonisba Anguissola (c1532–1625)?",
-      "date": "2026-08-18T11:48:52.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "A-Z of medieval life: V-Z",
-      "link": "https://www.historyextra.com/membership/a-z-of-medieval-life-v-z/",
-      "description": "Find out what letters V-Z stand for in historian Dr Ian Mortimer's A–Z journey through medieval England…",
-      "date": "2026-08-18T11:45:14.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
     },
     {
       "title": "Cold comfort: What China can teach Europe about adaptation",
@@ -250,14 +306,6 @@
       "category": "Geopolitica"
     },
     {
-      "title": "Hedy Lamarr: life of the week",
-      "link": "https://www.historyextra.com/membership/hedy-lamarr-life-of-the-week/",
-      "description": "Professor Ruth Barton charts the extraordinary life of Hedy Lamarr – teenage actor, refugee from Nazism, Hollywood megastar and pioneering inventor",
-      "date": "2026-08-18T08:30:56.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
       "title": "Soviet Science Behind the Language Barrier",
       "link": "https://www.historytoday.com/archive/history-matters/soviet-science-behind-language-barrier",
       "description": "Soviet Science Behind the Language Barrier James Hoare Tue, 08/18/2026 - 09:08 As advances in Soviet science in the 1950s were published in Russian, English-speaking scientists risked getting left behind.",
@@ -274,9 +322,9 @@
       "category": "Storia"
     },
     {
-      "title": "The End of the American Middle East",
-      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
-      "description": "Iran and the last gasp of a failed order.",
+      "title": "Democracies Need Creative Destruction",
+      "link": "https://www.foreignaffairs.com/united-states/democracies-need-creative-destruction-pahlka-greenway",
+      "description": "How to make government work again.",
       "date": "2026-08-18T04:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
@@ -298,6 +346,14 @@
       "category": "Geopolitica"
     },
     {
+      "title": "The Abandoned Order",
+      "link": "https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard",
+      "description": "Learning to live in a post-American world.",
+      "date": "2026-08-18T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
       "title": "How Alliances Survive",
       "link": "https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi",
       "description": "The case against pessimism and the path to a new allied order.",
@@ -306,9 +362,9 @@
       "category": "Geopolitica"
     },
     {
-      "title": "The Abandoned Order",
-      "link": "https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard",
-      "description": "Learning to live in a post-American world.",
+      "title": "The End of the American Middle East",
+      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
+      "description": "Iran and the last gasp of a failed order.",
       "date": "2026-08-18T04:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
@@ -325,14 +381,6 @@
       "title": "“The Strategy of Terrorism”",
       "link": "https://www.foreignaffairs.com/the-back-page/strategy-terrorism",
       "description": "A quarter century before 9/11, an upsurge in global terrorism prompted the historian David Fromkin to examine its purpose and method. Terrorism was a strategy of the weak, Fromkin wrote in these pages, but modern technology had enabled it “to enter the political arena on a new s…",
-      "date": "2026-08-18T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Democracies Need Creative Destruction",
-      "link": "https://www.foreignaffairs.com/united-states/democracies-need-creative-destruction-pahlka-greenway",
-      "description": "How to make government work again.",
       "date": "2026-08-18T04:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
@@ -370,17 +418,17 @@
       "category": "Storia"
     },
     {
-      "title": "Africa Can’t Afford to Squander Its Demographic Opportunity",
-      "link": "https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity",
-      "description": "What the youngest continent stands to gain from growing old.",
+      "title": "The Cost of Keeping China Out",
+      "link": "https://www.foreignaffairs.com/united-states/cost-keeping-china-out",
+      "description": "How Washington’s fear of Chinese investment hurts American competitiveness.",
       "date": "2026-08-17T04:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
     },
     {
-      "title": "The Cost of Keeping China Out",
-      "link": "https://www.foreignaffairs.com/united-states/cost-keeping-china-out",
-      "description": "How Washington’s fear of Chinese investment hurts American competitiveness.",
+      "title": "Africa Can’t Afford to Squander Its Demographic Opportunity",
+      "link": "https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity",
+      "description": "What the youngest continent stands to gain from growing old.",
       "date": "2026-08-17T04:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
@@ -432,14 +480,6 @@
       "date": "2026-08-13T11:45:00.000Z",
       "source": "Smithsonian Magazine (Storia)",
       "category": "Storia"
-    },
-    {
-      "title": "The Next Global Economic Crisis Could Be Made in China",
-      "link": "https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman",
-      "description": "How overcapacity ends.",
-      "date": "2026-08-13T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
     },
     {
       "title": "On the Spot: Nile Green",
@@ -498,28 +538,12 @@
       "category": "Geopolitica"
     },
     {
-      "title": "‘Fakers’ by Rory Cormac review",
-      "link": "https://www.historytoday.com/archive/review/fakers-rory-cormac-review",
-      "description": "‘Fakers’ by Rory Cormac review James Hoare Mon, 08/10/2026 - 08:17 Fakers: A Top-Secret Tale of Phantoms and Forgeries on the Disinformation Front Line by Rory Cormac brings Britain’s shadowy Information Research Department into the light.",
-      "date": "2026-08-10T07:17:30.000Z",
-      "source": "History Today",
-      "category": "Storia"
-    },
-    {
       "title": "Latin America’s new imaginaries",
       "link": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
       "description": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
       "date": "2026-08-07T05:00:00.000Z",
       "source": "European Council on Foreign Relations",
       "category": "Geopolitica"
-    },
-    {
-      "title": "Alternative Histories: Wembley, 1966",
-      "link": "https://www.historytoday.com/archive/cartoon/alternative-histories-wembley-1966",
-      "description": "Alternative Histories: Wembley, 1966 James Hoare Thu, 08/06/2026 - 16:40",
-      "date": "2026-08-06T15:40:50.000Z",
-      "source": "History Today",
-      "category": "Storia"
     },
     {
       "title": "Trust the numbers: Germans are open to a more hawkish China policy",
@@ -626,22 +650,6 @@
       "category": "Storia"
     },
     {
-      "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
-      "link": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
-      "description": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
-      "date": "2026-07-29T14:48:16.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
-      "link": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
-      "description": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
-      "date": "2026-07-29T10:42:02.000Z",
-      "source": "European Council on Foreign Relations",
-      "category": "Geopolitica"
-    },
-    {
       "title": "Can French nukes protect Europe if Donald Trump walks away?",
       "link": "https://www.economist.com/international/2026/07/28/can-french-nukes-protect-europe-if-donald-trump-walks-away",
       "description": "Europeans are keen on nuclear collaboration with Emmanuel Macron. What if Marine Le Pen becomes president?",
@@ -688,14 +696,6 @@
       "date": "2026-07-22T11:45:00.000Z",
       "source": "Smithsonian Magazine (Storia)",
       "category": "Storia"
-    },
-    {
-      "title": "The Iran war is consuming the Trump presidency",
-      "link": "https://www.economist.com/international/2026/07/21/the-iran-war-is-consuming-the-trump-presidency",
-      "description": "Donald Trump may hate to hear it, but Barack Obama was right about avoiding “stupid shit”",
-      "date": "2026-07-21T20:42:32.000Z",
-      "source": "The Economist",
-      "category": "Geopolitica"
     }
   ],
   "feedStatus": [
