@@ -1,133 +1,181 @@
 {
-  "generatedAt": "2026-09-06T10:39:41.061Z",
+  "generatedAt": "2026-09-07T12:06:11.293Z",
   "articles": [
     {
-      "title": "LIVE: Everton vs Manchester United – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-everton-vs-manchester-united-premier-league-fernandes-rashford-live-coverage-stream?traffic_source=rss",
-      "description": "All our live updates as Bruno Fernandes and Marcus Rashford look to fire during our text commentary stream coverage.",
-      "date": "2026-09-06T09:47:31.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Israeli flags become the latest weapon of settlers in West Bank domination",
-      "link": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
-      "description": "Israel&#039;s visual colonisation aims to make Palestinians feel like guests in their own homeland.",
-      "date": "2026-09-06T09:40:06.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Israeli air attacks on Lebanon kill at least four",
-      "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss",
-      "description": "Two women killed in an air attack on Arab Salim, and two people killed in strike on Nabatieh al-Fawqa.",
-      "date": "2026-09-06T09:15:20.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Israel bombards several towns in southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
-      "description": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
-      "date": "2026-09-06T08:44:03.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Zverev and Gauff ease into US Open last 16 but Alex Eala falls to Jovic",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/zverev-and-gauff-ease-into-us-open-last-16-but-alex-eala-falls-to-jovic?traffic_source=rss",
-      "description": "Filipina Alex Eala lost a three-set thriller to American Iva Jovic, as Naomi Osaka overcame Elise Mertens to progress.",
-      "date": "2026-09-06T07:59:04.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "How do you arrest 50,000 people quietly?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
-      "description": "ICE agents arrested an average of one person every 54 seconds in July. AJLabs examines a record month for deportations.",
-      "date": "2026-09-06T07:45:08.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Ireland’s boxing great Katie Taylor bows out as undisputed champion",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/irelands-boxing-great-katie-taylor-bows-out-as-undisputed-champion?traffic_source=rss",
-      "description": "The 40-year-old retained her WBA, IBF and WBO super-lightweight belts to become the undisputed champion for third time.",
-      "date": "2026-09-06T07:37:00.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
-      "link": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
-      "description": "Cairo court sentences TV host Sarah Khalifa and 11 others to death over drug trafficking ring.",
-      "date": "2026-09-06T07:20:37.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
-      "description": "Upon arrival at the U-20 Women&#039;s World Cup, Infantino remained tight-lipped about his re-election as FIFA president.",
-      "date": "2026-09-06T07:10:33.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
-      "description": "Al Jazeera finds 17 settlement-linked companies hold 2.1 billion pounds in UK public contracts.",
-      "date": "2026-09-06T06:52:23.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Daily quiz: 6 September",
-      "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-      "description": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time",
-      "date": "2026-09-06T06:00:14.000Z",
+      "title": "From Nell Gwyn to Meghan Markle: 9 romances between actors and royals",
+      "link": "https://www.historyextra.com/membership/nell-gwyn-meghan-markle-harry-relationships-actors-royals/",
+      "description": "For centuries, romances between actors and royals have captivated the public. With rumours that Meghan, Duchess of Sussex, is exploring a return to her former career, Catherine Curzon explores nine other notable relationships between performers and members of royal families",
+      "date": "2026-09-07T11:52:56.000Z",
       "source": "BBC History Extra",
       "category": "Storia"
     },
     {
-      "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
-      "description": "A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.",
-      "date": "2026-09-06T05:02:23.000Z",
+      "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
+      "description": "Iran unveils plans for a restricted zone, but will Tehran be able to enforce it amid escalating tensions with the US?",
+      "date": "2026-09-07T11:37:46.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
-      "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
-      "description": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.",
-      "date": "2026-09-06T05:02:17.000Z",
+      "title": "Champions League: Five key talking points for the 2026-27 season",
+      "link": "https://www.aljazeera.com/sports/2026/9/7/champions-league-five-key-talking-points-for-the-2026-27-season?traffic_source=rss",
+      "description": "Arsenal and Bayern lead the challengers to PSG, Mourinho aims for glory with Real and Italian minnows Como make debut.",
+      "date": "2026-09-07T11:34:15.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
-      "description": "Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’",
-      "date": "2026-09-06T04:59:28.000Z",
+      "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+      "description": "There&#039;s less crude in the market, and refiners prefer to produce diesel. The result: Ships are running short of fuel.",
+      "date": "2026-09-07T11:26:27.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "More than 20 killed in fire at wedding party in DR Congo",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
-      "description": "Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.",
-      "date": "2026-09-06T04:47:55.000Z",
+      "title": "Pakistan captain Fatima Sana fined over Shafali Verma gesture in Asia Cup",
+      "link": "https://www.aljazeera.com/sports/2026/9/7/pakistan-captain-fatima-sana-fined-over-shafali-verma-gesture-in-asia-cup?traffic_source=rss",
+      "description": "Sana gestured towards the pavilion after removing Verma in a caught-and-bowled dismissal in their Asia Cup match.",
+      "date": "2026-09-07T11:16:37.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "South Africa’s chrome riches fuel a deadly underground economy",
-      "link": "https://www.aljazeera.com/news/2026/9/6/south-africas-chrome-riches-fuel-a-deadly-underground-economy?traffic_source=rss",
-      "description": "Behind South Africa’s chrome riches lies a shadow economy where migrants and unemployed workers face deadly conditions.",
-      "date": "2026-09-06T04:31:45.000Z",
+      "title": "Is the AfD’s Ulrich Siegmund Germany’s ‘most dangerous man’?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/is-the-afds-ulrich-siegmund-germanys-most-dangerous?traffic_source=rss",
+      "description": "Is the AfD’s Ulrich Siegmund Germany’s ‘most dangerous man’?",
+      "date": "2026-09-07T10:53:52.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
+    },
+    {
+      "title": "Fury claims Joshua fight is off, calls for another Usyk rematch",
+      "link": "https://www.aljazeera.com/sports/2026/9/7/fury-claims-joshua-fight-is-off-calls-for-another-usyk-rematch?traffic_source=rss",
+      "description": "Tyson Fury says Anthony Joshua is &#039;weak-minded&#039; and cannot make up his mind about the date and venue of their fight.",
+      "date": "2026-09-07T10:42:34.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "World reacts to AfD victory in east Germany state election",
+      "link": "https://www.aljazeera.com/news/2026/9/7/world-reacts-to-afd-victory-in-east-germany-state-election?traffic_source=rss",
+      "description": "French minister calls AfD&#039;s victory a grave moment, warning of growing nationalism and its impact on European unity.",
+      "date": "2026-09-07T10:20:15.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Video: Israeli air strikes kill at least 10 in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/video-israeli-air-strikes-kill-at-least-10-in-southern-lebanon?traffic_source=rss",
+      "description": "Israeli air strikes on southern Lebanon began at dawn on Sunday, killing at least 10 people.",
+      "date": "2026-09-07T09:44:27.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
+      "description": "The average US household has spent $763 extra on fuel in six months, as the US-Israel war on Iran pushes up fuel costs.",
+      "date": "2026-09-07T09:30:44.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Fire breaks out at Chile ski resort",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/fire-breaks-out-at-chile-ski-resort?traffic_source=rss",
+      "description": "A fire broke out at a ski resort in Chile’s mountainous Nuble region.",
+      "date": "2026-09-07T09:27:22.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Nepal holds day of mourning for more than 1,300 killed in floods",
+      "link": "https://www.aljazeera.com/news/2026/9/7/nepal-holds-day-of-mourning-for-more-than-1300-killed-in-floods?traffic_source=rss",
+      "description": "Nepal flags fly at half-mast to mark a day of mourning after catastrophic Himalayan floods kill more than 1,300.",
+      "date": "2026-09-07T09:14:09.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Arsenal vs Chelsea: Gunners stamp authority, but Blues are contenders too",
+      "link": "https://www.aljazeera.com/sports/2026/9/7/arsenal-vs-chelsea-gunners-stamp-authority-but-blues-are-contenders-too?traffic_source=rss",
+      "description": "Arsenal&#039;s strong defence and reliable attack edge Chelsea&#039;s bravery and intent in the Premier League&#039;s biggest clash.",
+      "date": "2026-09-07T08:50:35.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Israel’s Katz threatens ‘full-scale war’ against PA after settler stabbed",
+      "link": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
+      "description": "The stabbing follows a wave of pogroms against Palestinians in the occupied West Bank by Israeli settlers.",
+      "date": "2026-09-07T08:31:26.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "‘The Bookshop’ by Andrew Pettegree review",
+      "link": "https://www.historytoday.com/archive/review/bookshop-andrew-pettegree-review",
+      "description": "‘The Bookshop’ by Andrew Pettegree review James Hoare Mon, 09/07/2026 - 09:09 The Bookshop: A History of Bookselling From the Dawn of Print to the 21st Century by Andrew Pettegree reveals the hard graft and innovation behind the book trade.",
+      "date": "2026-09-07T08:09:39.000Z",
+      "source": "History Today",
+      "category": "Storia"
+    },
+    {
+      "title": "India teams search for survivors after Delhi building collapse kills six",
+      "link": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
+      "description": "Rescue teams work to locate survivors after New Delhi building collapse.",
+      "date": "2026-09-07T07:04:20.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Israeli air attacks kill at least 11 people in southern Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+      "description": "Israeli air strike on residential building in Kfar Reman kills nine people, and two medics killed in drone attack.",
+      "date": "2026-09-07T06:58:28.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Daily quiz: 7 September",
+      "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+      "description": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time",
+      "date": "2026-09-07T06:00:06.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "The Emerging U.S.-China Détente",
+      "link": "https://www.foreignaffairs.com/united-states/emerging-us-china-detente",
+      "description": "A confident Beijing and a pragmatic Washington can get along.",
+      "date": "2026-09-07T04:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Fooling around in front of royalty: the extraordinary escapades of Europe's female jesters",
+      "link": "https://www.historyextra.com/membership/fooling-around-in-front-of-royalty-the-extraordinary-escapades-of-europes-female-jesters/",
+      "description": "From a devout Catholic jester dressed as an Amazonian warrior to a court dwarf immortalised by Velázquez, Rachel Ashcroft profiles five remarkable women who carved out extraordinary lives at the centre of power",
+      "date": "2026-09-06T14:30:30.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "Daily quiz: 5 September",
+      "link": "https://www.historyextra.com/membership/daily-quiz-5-september/",
+      "description": "In what year was Purchase Tax abolished in the UK?",
+      "date": "2026-09-06T06:00:04.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "Daily quiz: 4 September",
+      "link": "https://www.historyextra.com/membership/daily-quiz-4-september/",
+      "description": "In what year was Purchase Tax abolished in the UK?",
+      "date": "2026-09-05T06:00:35.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
     },
     {
       "title": "Orchestrators, not customers: A new role for European governments in defence",
@@ -202,22 +250,6 @@
       "category": "Storia"
     },
     {
-      "title": "History crossword: 28 August",
-      "link": "https://www.historyextra.com/membership/history-crossword-28-august/",
-      "description": "",
-      "date": "2026-09-04T08:01:55.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "Can you solve our history crossword of the week?",
-      "link": "https://www.historyextra.com/period/general-history/crossword/",
-      "description": "",
-      "date": "2026-09-04T08:00:15.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
       "title": "Maximum pressure on Iran, round two",
       "link": "https://ecfr.eu/podcasts/episode/maximum-pressure-on-iran-round-two/",
       "description": "Mark Leonard welcomes Ellie Geranmayeh to discuss the latest phase of the US-Iran conflict, the escalating economic pressure campaign against Tehran and the risks of a prolonged war without a clear exit strategy",
@@ -242,14 +274,6 @@
       "category": "Geopolitica"
     },
     {
-      "title": "The story of the Bayeux Tapestry, with Dr David Musgrove",
-      "link": "https://www.historyextra.com/period/norman/the-story-of-the-bayeux-tapestry-with-dr-david-musgrove/",
-      "description": "Join Dr David Musgrove from 8 September for this video series for the HistoryExtra Academy, as he traces the threads of the Bayeux Tapestry story",
-      "date": "2026-09-03T13:41:54.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
       "title": "To Defeat the Royal Navy During the American Revolution, a Rebel Inventor Designed a Secret Weapon: a Bomb-Carrying Submarine",
       "link": "https://www.smithsonianmag.com/history/to-defeat-the-royal-navy-during-the-american-revolution-a-rebel-inventor-designed-a-secret-weapon-a-bomb-carrying-submarine-180989400/",
       "description": "David Bushnell developed the \"Turtle\" submersible as a student at Yale University. The vessel's attack on a British flagship failed, but the trailblazing boat's legacy endures 250 years later",
@@ -271,14 +295,6 @@
       "description": "Golden Horses, Red Square James Hoare Thu, 09/03/2026 - 08:30 In 1935 Turkmen farmers rode their horses 4,300 kilometres across the Soviet Union to impress Moscow.",
       "date": "2026-09-03T07:30:16.000Z",
       "source": "History Today",
-      "category": "Storia"
-    },
-    {
-      "title": "Daily quiz: 2 September",
-      "link": "https://www.historyextra.com/membership/daily-quiz-2-september/",
-      "description": "In what year did the ‘Gleiwitz Incident’ take place?",
-      "date": "2026-09-03T06:00:23.000Z",
-      "source": "BBC History Extra",
       "category": "Storia"
     },
     {
@@ -506,14 +522,6 @@
       "category": "Storia"
     },
     {
-      "title": "America Doesn’t Need More Nuclear Weapons",
-      "link": "https://www.foreignaffairs.com/united-states/america-doesnt-need-more-nuclear-weapons",
-      "description": "Expanding the stockpile could weaken deterrence.",
-      "date": "2026-08-26T04:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
       "title": "As his presidency flounders, Trump is more dangerous than ever",
       "link": "https://www.economist.com/international/2026/08/25/as-his-presidency-flounders-trump-is-more-dangerous-than-ever",
       "description": "Forget lame ducks. America’s president will defend his dominance like an ageing silverback gorilla",
@@ -551,14 +559,6 @@
       "description": "A new book by historian Nathaniel Philbrick makes the case that James Marshall’s 1848 discovery set in motion events from the Civil War to the rise of Silicon Valley",
       "date": "2026-08-21T11:00:00.000Z",
       "source": "Smithsonian Magazine (Storia)",
-      "category": "Storia"
-    },
-    {
-      "title": "Petitions, Puritans, and the Civil War",
-      "link": "https://www.historytoday.com/archive/feature/petitions-puritans-and-civil-war",
-      "description": "Petitions, Puritans, and the Civil War James Hoare Fri, 08/21/2026 - 08:41 Early Stuart England saw the emergence of mass petitioning. These expressions of collective grievance would advance popular politics, uncover division, and lay the road to war.",
-      "date": "2026-08-21T07:41:40.000Z",
-      "source": "History Today",
       "category": "Storia"
     },
     {
