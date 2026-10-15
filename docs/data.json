@@ -1,29 +1,181 @@
 {
-  "generatedAt": "2026-10-14T11:32:35.117Z",
+  "generatedAt": "2026-10-15T11:10:53.737Z",
   "articles": [
     {
-      "title": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
-      "link": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
-      "description": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
-      "date": "2026-10-14T10:57:35.000Z",
+      "title": "How to survive a predatory world order",
+      "link": "https://www.economist.com/international/2026/10/15/how-to-survive-a-predatory-world-order",
+      "description": "Middle powers face a new threat: Trump-Putin-Xi collusion",
+      "date": "2026-10-15T10:52:13.000Z",
+      "source": "The Economist",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+      "link": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "description": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+      "date": "2026-10-15T10:52:12.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
-      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
-      "description": "Israeli plans to reopen Route 463 for settlers threaten to isolate Palestinian villages and fragment Ramallah.",
-      "date": "2026-10-14T10:49:40.000Z",
+      "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
+      "link": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
+      "description": "The governing body&#039;s council is expected to prohibit disciplinary committees from overturning match suspensions.",
+      "date": "2026-10-15T10:46:08.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
     },
     {
-      "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
-      "link": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
-      "description": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
-      "date": "2026-10-14T10:46:55.000Z",
+      "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+      "link": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+      "description": "The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.",
+      "date": "2026-10-15T10:44:03.000Z",
       "source": "Al Jazeera (World)",
       "category": "Geopolitica"
+    },
+    {
+      "title": "Dozens of children killed after roof collapses in Pakistani school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+      "description": "At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.",
+      "date": "2026-10-15T10:21:43.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Russia says Ukraine resumes attacks on oil refineries",
+      "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+      "description": "Ukraine&#039;s president earlier said Kyiv was &#039;done&#039; with energy ceasefire and that strikes on Russian oil refineries would resume.",
+      "date": "2026-10-15T10:02:17.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Long-delayed China-North Korea bridge officially opens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+      "description": "China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.",
+      "date": "2026-10-15T10:00:58.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
+      "description": "Countries’ ties with Israel reflect local politics, defence deals and strategic interests rather than a united stance.",
+      "date": "2026-10-15T09:35:01.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Could France trigger another Eurozone debt crisis?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/15/could-france-trigger-another-eurozone-debt-crisis?traffic_source=rss",
+      "description": "France&#039;s soaring borrowing costs and political divisions raise fears of a wider Eurozone debt crisis.",
+      "date": "2026-10-15T09:26:11.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "The irony of OpenAI crying foul over spying",
+      "link": "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss",
+      "description": "A company that owes its existence and enormous valuation to stealing others&#039; work is now up in arms about theft.",
+      "date": "2026-10-15T09:03:02.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+      "link": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
+      "description": "The government hopes a weaker dinar will help pay salaries, but traders face rising import costs and uncertainty.",
+      "date": "2026-10-15T08:44:58.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+      "link": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+      "description": "Young Palestinian artists in Gaza and the occupied West Bank bring their work together in simultaneous exhibitions.",
+      "date": "2026-10-15T08:37:41.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "School roof collapses in northwestern Pakistan, killing at least 29 people",
+      "link": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
+      "description": "At least 28 students and one teacher killed in incident at Al-Khair Education Centre, a private school in Peshawar.",
+      "date": "2026-10-15T08:30:41.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Man United’s Martinez takes to social media to defend his criticism of club",
+      "link": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss",
+      "description": "Argentina defender Lisandro Martinez follows up criticism of his club with social media explanation of frustration.",
+      "date": "2026-10-15T08:27:32.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+      "link": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
+      "description": "Messi assist sets Inter Miami on way to 2-0 win against New York City FC as back-to-back wins guarantee playoff place.",
+      "date": "2026-10-15T08:24:35.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Containers and debris captured floating around the Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss",
+      "description": "Video shows containers and debris scattered around the Strait of Hormuz due to the recent attacks on vessels.",
+      "date": "2026-10-15T08:06:06.000Z",
+      "source": "Al Jazeera (World)",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "The Middle East’s Quiet Liberal Revolution",
+      "link": "https://www.foreignaffairs.com/iran/middle-easts-quiet-liberal-revolution",
+      "description": "What people in the region actually believe.",
+      "date": "2026-10-15T08:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "India’s Democratic Reckoning",
+      "link": "https://www.foreignaffairs.com/india/indias-democratic-reckoning",
+      "description": "The battle on the streets over the foundations of the state.",
+      "date": "2026-10-15T08:00:00.000Z",
+      "source": "Foreign Affairs",
+      "category": "Geopolitica"
+    },
+    {
+      "title": "Omens from the Thirty Years War",
+      "link": "https://www.historytoday.com/archive/history-matters/omens-thirty-years-war",
+      "description": "Omens from the Thirty Years War James Hoare Thu, 10/15/2026 - 08:00 As the Thirty Years War ravaged the Continent, news reached England of strange phenomena. What did it portend?",
+      "date": "2026-10-15T07:00:15.000Z",
+      "source": "History Today",
+      "category": "Storia"
+    },
+    {
+      "title": "Daily Quiz: 15 October",
+      "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+      "description": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time",
+      "date": "2026-10-15T06:00:09.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "Alexander the Great's empire crumbled into chaos after his death. How did it fall apart so quickly?",
+      "link": "https://www.historyextra.com/period/ancient-history/alexander-the-great-came-close-to-death-no-succession-plan/",
+      "description": "He survived battlefield wounds and conquered an empire stretching from the Mediterranean to India. So when Alexander the Great finally died, why was there no plan for succession?",
+      "date": "2026-10-14T15:49:25.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
+    },
+    {
+      "title": "\"No votes, no golf!\": how the suffragettes made sport a political battlefield",
+      "link": "https://www.historyextra.com/membership/no-votes-no-golf-how-the-suffragettes-made-sport-a-political-battlefield/",
+      "description": "In the early 20th century, sport came to be regarded as a male-only activity – by men, anyway. As Rachel Hewitt explains, the overlooked history of women’s participation in cricket, golf, wrestling, hockey and even mountaineering is intertwined with the emergence of the suffragi…",
+      "date": "2026-10-14T14:30:27.000Z",
+      "source": "BBC History Extra",
+      "category": "Storia"
     },
     {
       "title": "It was the one of the Seven Wonders of the Ancient World – so why was it destroyed three times?",
@@ -34,84 +186,12 @@
       "category": "Storia"
     },
     {
-      "title": "Albanian students clash with police as they protest over education and jobs",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss",
-      "description": "Albanian students clash with police as they protest education costs, poor university conditions and bleak job prospects.",
-      "date": "2026-10-14T10:14:17.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Israeli air strike kills Palestinian woman in Gaza City",
-      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
-      "description": "The woman&#039;s young daughter was rescued from a large fire inside the apartment, caused by the attack.",
-      "date": "2026-10-14T10:08:49.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "How a radio glitch triggered a false hijack alert in Germany",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
-      "description": "Authorities scrambled fighter jets to escort a plane from Corfu to Nuremberg after a pilot sent a hijack alert.",
-      "date": "2026-10-14T09:53:54.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
-      "description": "Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.",
-      "date": "2026-10-14T09:40:20.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "China’s exports surge amid AI-driven demand",
-      "link": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
-      "description": "Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.",
-      "date": "2026-10-14T09:05:17.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
       "title": "The rise of Alfred the Great",
       "link": "https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-two/",
       "description": "Dr Eleanor Barraclough follows the Great Heathen Army on its rampage across Anglo-Saxon England",
       "date": "2026-10-14T09:00:11.000Z",
       "source": "BBC History Extra",
       "category": "Storia"
-    },
-    {
-      "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
-      "description": "Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India&#039;s Delhi.",
-      "date": "2026-10-14T08:51:36.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
-      "description": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "date": "2026-10-14T08:51:27.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "How do Iranians move money abroad to avoid US sanctions?",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
-      "description": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
-      "date": "2026-10-14T08:24:02.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
-      "link": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-      "description": "The US president also praises the security advantages of last month&#039;s deal with Denmark and Greenland.",
-      "date": "2026-10-14T08:08:42.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
     },
     {
       "title": "Kathleen Lonsdale’s Atom Patterns",
@@ -122,14 +202,6 @@
       "category": "Storia"
     },
     {
-      "title": "Ukraine Can Turn Imminent Peril to Its Advantage",
-      "link": "https://www.foreignaffairs.com/ukraine/ukraine-can-turn-imminent-peril-its-advantage",
-      "description": "How a true “energy cease-Fire” can curb Putin.",
-      "date": "2026-10-14T08:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
       "title": "China’s Next Frontier",
       "link": "https://www.foreignaffairs.com/china/chinas-next-frontier",
       "description": "Technology experts Kathleen Curlee and Sam Bresnick argue that China is catching up to the United States in space, commercially and militarily. This poses a threat to U.S. military operations, which rely on space-based capabilities. Washington must invest in space defense and al…",
@@ -138,36 +210,12 @@
       "category": "Geopolitica"
     },
     {
-      "title": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
-      "link": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss",
-      "description": "Teachers fear losing their livelihoods and students risk being excluded as Baku&#039;s close ally appears critical.",
-      "date": "2026-10-14T07:57:45.000Z",
-      "source": "Al Jazeera (World)",
+      "title": "Ukraine Can Turn Imminent Peril to Its Advantage",
+      "link": "https://www.foreignaffairs.com/ukraine/ukraine-can-turn-imminent-peril-its-advantage",
+      "description": "How a true “energy cease-Fire” can curb Putin.",
+      "date": "2026-10-14T08:00:00.000Z",
+      "source": "Foreign Affairs",
       "category": "Geopolitica"
-    },
-    {
-      "title": "Palestinians say Israel’s democracy ‘is a joke’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
-      "description": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
-      "date": "2026-10-14T07:41:20.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
-      "description": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
-      "date": "2026-10-14T07:38:09.000Z",
-      "source": "Al Jazeera (World)",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "Daily Quiz: 14 October",
-      "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-      "description": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time",
-      "date": "2026-10-14T06:00:15.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
     },
     {
       "title": "This Iron Age woman had her brain scooped out. Why?",
@@ -242,17 +290,17 @@
       "category": "Storia"
     },
     {
-      "title": "Chinese Robots Could Decide the AI Race",
-      "link": "https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race",
-      "description": "Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Sil…",
+      "title": "America Shouldn’t Let Go of the Middle East",
+      "link": "https://www.foreignaffairs.com/iran/america-shouldnt-let-go-middle-east-phil-gordon",
+      "description": "Why disengagement is not the answer.",
       "date": "2026-10-12T08:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
     },
     {
-      "title": "America Shouldn’t Let Go of the Middle East",
-      "link": "https://www.foreignaffairs.com/iran/america-shouldnt-let-go-middle-east-phil-gordon",
-      "description": "Why disengagement is not the answer.",
+      "title": "Chinese Robots Could Decide the AI Race",
+      "link": "https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race",
+      "description": "Scott Singer and Pavlo Zvenyhorodsky, researchers at Carnegie’s China AI Initiative, argue that China is betting that AI dominance will come from combining hardware and software, or AI-powered robots. By focusing only on software such as AI models, they argue, Washington and Sil…",
       "date": "2026-10-12T08:00:00.000Z",
       "source": "Foreign Affairs",
       "category": "Geopolitica"
@@ -263,22 +311,6 @@
       "description": "‘Master of Rome’, ‘The Roman World War’, and ‘Livia’ review James Hoare Mon, 10/12/2026 - 08:41 What can three recent books – Master of Rome by David Potter, The Roman World War by Giusto Traina, and Livia by Caitlin C. Gillespie – tell us about Rome’s political personalities?",
       "date": "2026-10-12T07:41:29.000Z",
       "source": "History Today",
-      "category": "Storia"
-    },
-    {
-      "title": "\"She was mad with the acrid lust of blood\": 6 murders that shocked Victorian Britain",
-      "link": "https://www.historyextra.com/membership/she-was-mad-with-the-acrid-lust-of-blood-6-murders-that-shocked-victorian-britain/",
-      "description": "From child killings to public hangings, Bob Nicholson unearths half a dozen of the most shocking – and gruesome – stories published by the 19th-century popular press",
-      "date": "2026-10-11T17:30:42.000Z",
-      "source": "BBC History Extra",
-      "category": "Storia"
-    },
-    {
-      "title": "Are these the world’s oldest cities? Inside the megasites that Soviet authorities didn’t want you to see",
-      "link": "https://www.historyextra.com/membership/are-these-the-worlds-oldest-cities-inside-the-megasites-that-soviet-authorities-didnt-want-you-to-see/",
-      "description": "Hilary Mitchell introduces the Cucuteni-Trypillia, archaeological megasites that rival Uruk and Çatalhöyük for the accolade of ‘world’s oldest city’, knowledge of which was suppressed by the Soviet Union for decades. But why?",
-      "date": "2026-10-11T15:00:04.000Z",
-      "source": "BBC History Extra",
       "category": "Storia"
     },
     {
@@ -386,22 +418,6 @@
       "category": "Geopolitica"
     },
     {
-      "title": "The Myth of Military Victory",
-      "link": "https://www.foreignaffairs.com/united-states/myth-military-victory",
-      "description": "The dangerous idea driving today’s wars of choice.",
-      "date": "2026-10-06T08:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
-      "title": "The Triumph of Tech-Fueled Propaganda",
-      "link": "https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda",
-      "description": "America isn’t ready for the next wave of foreign influence operations.",
-      "date": "2026-10-05T08:00:00.000Z",
-      "source": "Foreign Affairs",
-      "category": "Geopolitica"
-    },
-    {
       "title": "The Marquis de Lafayette's Brother-in-Law Participated in Three Revolutionary Wars, Supporting American Independence but Brutally Suppressing an Uprising by Enslaved Africans in Haiti",
       "link": "https://www.smithsonianmag.com/history/the-marquis-de-lafayettes-brother-in-law-participated-in-three-revolutionary-wars-supporting-american-independence-but-brutally-suppressing-an-uprising-by-enslaved-africans-in-haiti-180989582/",
       "description": "Louis-Marie, Viscount de Noailles, served during the American, French and Haitian Revolutions. \"He fights wherever France fights, because he's a soldier and he believes in France,\" a historian says",
@@ -455,14 +471,6 @@
       "description": "An analysis of more than 500 missives found that Elizabeth's advisers crafted and even intensified the expression of emotion in her messages to such figures as Mary, Queen of Scots, and James VI of Scotland",
       "date": "2026-09-28T11:45:00.000Z",
       "source": "Smithsonian Magazine (Storia)",
-      "category": "Storia"
-    },
-    {
-      "title": "‘Neanderthals Among Us’ by Peter Sahlins review",
-      "link": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
-      "description": "‘Neanderthals Among Us’ by Peter Sahlins review James Hoare Mon, 09/28/2026 - 09:04 Neanderthals Among Us: The Making of a Prehistoric Human by Peter Sahlins charts the ascent of an idea from prehistory to popular culture.",
-      "date": "2026-09-28T08:04:52.000Z",
-      "source": "History Today",
       "category": "Storia"
     },
     {
